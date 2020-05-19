@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(){
-    long int a,b,c, i;
+    int a,b,c, i;
     printf("Insira a quantidade de numeros que voce seja somar\n");
     scanf("%d",&a);
     if(a >40 || a <= 0){
